@@ -1,5 +1,11 @@
 # *PR. 2 Logic Box – Pattern Generator and Number Analyzer*
 
+## 🔗 Project Links
+
+- 🌐 Live Demo:https://drive.google.com/file/d/10WR9Z-MlLNoDlvuEf6GUXIdA4HoTimYA/view?usp=drivesdk
+- 📧 Email:nigamchandan543@gmail.com
+
+
 ## 📌 Project Description
 This project is a menu-driven Python program that demonstrates the use of loops, nested loops, control statements, and logical problem-solving.
 
